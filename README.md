@@ -41,7 +41,7 @@ First, install the [core library](https://github.com/cultivate-software/render-w
 npm install --save-dev @render-with/decorators
 ```
 
-Next, install the React Router decorators provided by this library:
+Next, install the Material UI decorators provided by this library:
 
 ```shell
 npm install --save-dev @render-with/material-ui
@@ -129,7 +129,7 @@ it('uses padding of custom theme', () => {
 
 ## API
 
-_Note: This API reference uses simplified types. You can find the full type specification [here](https://github.com/cultivate-software/render-with-react-intl/blob/main/types/index.d.ts)._
+_Note: This API reference uses simplified types. You can find the full type specification [here](https://github.com/cultivate-software/render-with-material-ui/blob/main/types/index.d.ts)._
 
 ```
 function configureWithTheme(defaultTheme?: Theme): typeof withTheme
