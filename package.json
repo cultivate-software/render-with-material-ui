@@ -1,6 +1,6 @@
 {
   "name": "@render-with/material-ui",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Render decorators for components under test that require Material UI.",
   "keywords": [
     "testing",
