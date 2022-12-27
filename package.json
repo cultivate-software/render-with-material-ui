@@ -1,7 +1,7 @@
 {
   "name": "@render-with/material-ui",
   "version": "1.0.2",
-  "description": "Render decorators for components under test that require Material UI.",
+  "description": "Render decorators for components under test that require a Material UI ThemeProvider.",
   "keywords": [
     "testing",
     "react",
@@ -13,6 +13,7 @@
     "functional",
     "decorator",
     "wrapper",
+    "provider",
     "material",
     "ui",
     "mui",
