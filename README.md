@@ -1,4 +1,4 @@
-# Render decorators 🪆 for Material UI v4
+# Render decorators 🪆 for Material UI (v4)
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cultivate-software/render-with-material-ui/release.yml?branch=main)
 ![Code Coverage](docs/coverage-badge.svg)
@@ -6,7 +6,7 @@
 ![NPM](https://img.shields.io/npm/l/@render-with/material-ui)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-bright%20green)
 
-Use the `withTheme(..)` decorator if your component under test requires a [Material UI v4 `ThemeProvider`](https://v4.mui.com/getting-started/installation/):
+Use the `withTheme(..)` decorator if your component under test requires a [Material UI (v4) `ThemeProvider`](https://v4.mui.com/getting-started/installation/):
 
 Example:
 
