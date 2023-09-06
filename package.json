@@ -64,7 +64,7 @@
     "@babel/cli": "7.22.10",
     "@babel/core": "7.22.15",
     "@babel/node": "7.22.10",
-    "@babel/preset-env": "7.22.14",
+    "@babel/preset-env": "7.22.15",
     "@babel/preset-react": "7.22.5",
     "@material-ui/core": "4.12.4",
     "@render-with/decorators": "1.1.1",
