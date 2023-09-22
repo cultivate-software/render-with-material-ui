@@ -81,7 +81,7 @@
     "jest-environment-jsdom": "29.6.4",
     "make-coverage-badge": "1.2.0",
     "open-cli": "7.2.0",
-    "semantic-release": "19.0.5"
+    "semantic-release": "22.0.1"
   },
   "publishConfig": {
     "access": "public"
