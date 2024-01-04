@@ -69,7 +69,7 @@
     "@material-ui/core": "4.12.4",
     "@render-with/decorators": "1.1.1",
     "@semantic-release/git": "10.0.1",
-    "@testing-library/jest-dom": "5.17.0",
+    "@testing-library/jest-dom": "6.2.0",
     "@testing-library/react": "12.1.5",
     "@testing-library/user-event": "14.5.1",
     "eslint-plugin-import": "2.28.1",
